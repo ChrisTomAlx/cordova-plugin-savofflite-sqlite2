@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChrisTomAlx/cordova-plugin-savofflite-sqlite.git"
+    "url": "https://github.com/ChrisTomAlx/cordova-plugin-savofflite-sqlite2.git"
   },
   "cordova": {
     "id": "cordova-plugin-savofflite-sqlite2",
